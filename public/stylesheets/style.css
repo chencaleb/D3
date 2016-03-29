@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+
+/* ----- CHART CSS ----- */
+#chart {
+  height: 400px;
+  width: 945px;
+}
+#chart .c3-axis-x {
+  font-size: 15px;
+}
+#chart .c3-axis-y {
+  font-size: 12px;
+}

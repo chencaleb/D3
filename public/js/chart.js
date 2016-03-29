@@ -67,16 +67,16 @@ var jv     = 0;
 var python = 0;
 var ruby   = 0;
 
-var hashtagJs    = '#Javascript';
-var hashtagPhp  = '#PHP';
-var hashtagJv   = '#Java';
-var hashtagPython    = '#Python';
-var hashtagRuby     = '#Ruby';
-var javascriptMention  = 'Javascript';
-var phpMention    = 'PHP';
-var javaMention   = 'Java';
-var pythonMention     = 'Python';
-var rubyMention   = 'Ruby';
+var hashtagJs    = '#javascript';
+var hashtagPhp  = '#php';
+var hashtagJv   = '#java';
+var hashtagPython    = '#python';
+var hashtagRuby     = '#ruby';
+var javascriptMention  = 'javascript';
+var phpMention    = 'php';
+var javaMention   = 'java';
+var pythonMention     = 'python';
+var rubyMention   = 'ruby';
 
 setInterval(function () {
   chart.load({

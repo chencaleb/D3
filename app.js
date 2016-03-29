@@ -23,11 +23,11 @@ io.sockets.on('connection', function(socket) {
 
   var stream = twit.stream('statuses/filter', { 
     track: [
-      '#Javascript', 
+      '#javascript', 
       '#PHP',
-      '#Java', 
-      '#Python',
-      '#Ruby'
+      '#java', 
+      '#python',
+      '#ruby'
      ] 
    });
 
